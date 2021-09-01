@@ -155,10 +155,7 @@ class myCanvas extends Canvas{
 	
 }
 
-
-
-
-// Main class
+//Main
 public class main{
 	public static void main(String[] args) {
 		myFrame aplication=new myFrame("User's response time");
